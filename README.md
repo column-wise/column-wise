@@ -67,13 +67,7 @@ Hi !
 
 ## 📫 Contact
 
-<a href="mailto:columnwise99@gmail.com" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/%EC%A3%BC%ED%98%84-%EC%9D%B4-674bb2340/" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://www.instagram.com/99juhyun/" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" style="margin-right: 10px;" />
-</a>
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />](mailto:columnwise99@gmail.com)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />](https://www.linkedin.com/in/%EC%A3%BC%ED%98%84-%EC%9D%B4-674bb2340/)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />](https://www.instagram.com/99juhyun/)
 
