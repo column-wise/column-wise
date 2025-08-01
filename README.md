@@ -1,6 +1,25 @@
 ## 👋 About Me
 
-Hi !
+안녕하세요.  
+**무거운 엉덩이로 단단한 시스템을 만드는 개발자 이주현입니다.**  
+끈기 있게 고민하고 최적화하여, 안정적이고 효율적인 시스템을 구축하는 것을 좋아합니다.  
+
+현재는 Java/Spring 기반 백엔드 개발을 중심으로,  
+Infra, DevOps, Android, WearOS 등 전반적인 서비스를 아우르는 개발을 이어가고 있습니다.
+
+📚 최근 학습 중인 내용은 아래에 정리 중입니다.  
+👉 [Dev Book Shelf](https://github.com/Dev-Book-Shelf)  
+👉 [Terraform Practice](https://github.com/column-wise/Terraform-practice)  
+👉 [CS Deep Dive](https://github.com/column-wise/CS-DeepDive)  
+
+---
+
+## 🏆 Awards & Honors
+
+- 🥇 건국대학교 2021 SW 경진대회 최우수상
+- 🥇 SSAFY 특화 프로젝트 발표 우수상
+- 🏅 삼성청년SW·AI아카데미 12기 수료
+- 🪖 육군 중위 만기 전역 (통신소대장 & 본부포대장)
 
 ---
 
