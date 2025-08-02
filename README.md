@@ -19,6 +19,7 @@ Infra, DevOps, Android, WearOS 등 전반적인 서비스를 아우르는 개발
 - 🥇 건국대학교 2021 SW 경진대회 최우수상
 - 🥇 SSAFY 특화 프로젝트 발표 우수상
 - 🏅 삼성청년SW·AI아카데미 12기 수료
+- 🏅 삼성 SW 역량 테스트 B형(Professional) 취득
 - 🪖 육군 중위 만기 전역 (통신소대장 & 본부포대장)
 
 <br>
