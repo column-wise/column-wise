@@ -75,10 +75,7 @@ Infra, DevOps, Android, WearOS 등 전반적인 서비스를 아우르는 개발
     </div>
     <div>
         <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-        <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+        <img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square&logo=coderabbit&logoColor=white" />
     </div>
 </div>
 
