@@ -10,7 +10,8 @@ Infra, DevOps, Android, WearOS 등 전반적인 서비스를 아우르는 개발
 📚 최근 학습 중인 내용은 아래에 정리 중입니다.  
 - [Dev Book Shelf](https://github.com/Dev-Book-Shelf)  
 - [Terraform Practice](https://github.com/column-wise/Terraform-practice)  
-- [CS Deep Dive](https://github.com/column-wise/CS-DeepDive)  
+- [CS Deep Dive](https://github.com/column-wise/CS-DeepDive)
+- [Short Link](https://github.com/column-wise/ShortLink)
 
 <br>
 
